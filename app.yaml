@@ -10,4 +10,4 @@ handlers:
     static_files: build/index.html
     upload: build/index.html
 
-  # add: konfigurasi app.yaml untuk App Engine
+  # konfigurasi yang digunakan untuk App Engine
